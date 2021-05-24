@@ -1,0 +1,11 @@
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\bin\Debug\PDFEncyption.exe.config
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\bin\Debug\PDFEncyption.exe
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\bin\Debug\PDFEncyption.pdb
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.Form1.resources
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.Properties.Resources.resources
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.csproj.GenerateResource.cache
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.csproj.CoreCompileInputs.cache
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.exe
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.pdb
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\bin\Debug\itextsharp.dll
+E:\aly\alysource\PCSource\C#PDFEncrypttion\PDFEncyption\PDFEncyption\obj\Debug\PDFEncyption.csproj.CopyComplete
