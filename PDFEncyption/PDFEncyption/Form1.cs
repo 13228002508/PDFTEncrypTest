@@ -58,6 +58,7 @@ namespace PDFEncyption
         {
             try
             {
+                //添加注释
                 PdfReader itextPdfReader = new PdfReader(strPath);
                 iTextSharp.text.Document document = new iTextSharp.text.Document();
                 FileStream fileStream = new FileStream(StrDesPath, FileMode.Create);
